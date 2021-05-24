@@ -9,7 +9,6 @@ body .noticia {
   justify-content: space-around;
   align-items: center;
   width: 1300px;
-  height: auto;
   margin: 0 auto; }
   body .noticia .imagen {
     background: linear-gradient(0deg, black 0%, rgba(238, 238, 238, 0.2777485994) 100%), url("../media/pandemic.jpg");
